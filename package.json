@@ -1,0 +1,14 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "selenium-webdriver": "^4.23.0"
+  }
+}
